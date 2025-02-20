@@ -1,0 +1,87 @@
+#root {
+  width: 100vw; 
+  height: 100vh;
+  
+  /* padding: 2rem; */
+  text-align: center;
+}
+
+.search{
+  margin:3rem;
+}
+.searchbar{
+  display: flex;
+  margin: 3rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  border-style: solid;
+  border-color:black;
+  border-radius: 10px;
+  height: 4rem;
+  width: 80%;
+ 
+}
+
+#search{
+  text-align: center;
+  padding-top: 15px;
+  border-style: solid;
+  border-color:black;
+}
+
+.qoute{
+  margin: 3rem;
+}
+
+.mb-2 {
+  margin-bottom: 7.5rem!important;
+}
+
+.where{
+  margin-top: 10px;
+}
+.date{
+  border-radius: 5px;
+}
+
+.form-control {
+ 
+  width: 60%;
+}
+
+.cardkabox{
+  margin: 5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+
+
+.searchitem{
+  width: 100vw;
+  /* height: 50vh; */
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  display: flex;
+  justify-content: center
+  
+}
+.card{
+  width: 60%;
+}
+.book{
+  margin: 1rem;
+}
+
+.mb-2 {
+  margin-bottom: 1.5rem !important;
+}
+.booking{
+  margin-left:35%;
+  margin-right: 30%;
+}
+.book-qua{
+  display: flex;
+  
+}
